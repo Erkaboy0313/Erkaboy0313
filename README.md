@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.ibb.co/2yWgH0J/github-banner.png" alt="Erkaboy Fayyozbekov Banner" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Erkaboy Fayyozbekov</h1>
 <h3 align="center">Backend Developer | Python | Django | DRF | FastAPI</h3>
 
@@ -47,7 +42,7 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Erkaboy0313&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Erkaboy0313&theme=tokyonight" alt="GitHub Streak" />
+  ![GitHub Streak](https://streak-stats.demolab.com?user=Erkaboy0313&theme=tokyonight&hide_border=true)
 </p>
 
 ---
