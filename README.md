@@ -39,16 +39,11 @@
 
 
 ## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Erkaboy0313&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Erkaboy0313&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/> </p>
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Erkaboy0313&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
+## 📊 GitHub Stats 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Erkaboy0313&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> </p> 
 ---
 
 ## 🔗 Find Me Around the Web
